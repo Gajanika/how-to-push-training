@@ -1,0 +1,7 @@
+X:\20th 29th of june c# data sturacture\project006\project006\bin\Debug\project006.exe.config
+X:\20th 29th of june c# data sturacture\project006\project006\bin\Debug\project006.exe
+X:\20th 29th of june c# data sturacture\project006\project006\bin\Debug\project006.pdb
+X:\20th 29th of june c# data sturacture\project006\project006\obj\Debug\project006.csproj.AssemblyReference.cache
+X:\20th 29th of june c# data sturacture\project006\project006\obj\Debug\project006.csproj.CoreCompileInputs.cache
+X:\20th 29th of june c# data sturacture\project006\project006\obj\Debug\project006.exe
+X:\20th 29th of june c# data sturacture\project006\project006\obj\Debug\project006.pdb
